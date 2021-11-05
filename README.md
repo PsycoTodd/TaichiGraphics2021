@@ -17,7 +17,8 @@ install tachi-Three for 3D particle system support.
 
 python3 -m pip install taichi-tina
 
-![alt text][JuliaSet]
+![alt text][TinaGalaxy]
 
 
 [JuliaSet]: https://github.com/PsycoTodd/TaichiGraphics2021/blob/main/JuliaSet.gif
+[TinaGalaxy]: https://github.com/PsycoTodd/TaichiGraphics2021/blob/main/TinaGalaxy.gif
